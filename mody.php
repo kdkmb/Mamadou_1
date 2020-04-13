@@ -1,0 +1,3 @@
+<?php
+	Hello the world
+?>
